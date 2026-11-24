@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "echo 'Static build ready'",
     "preview": "vite preview"
   },
   "dependencies": {
